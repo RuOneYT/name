@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup as bs4
 from kinopoisk.movie import Movie
 
 
-updater = Updater(token="968621763:AAFYvQ83bNr0sRhdKZF0C2lw73kpE48AUAA", use_context=True)
+updater = Updater(token="968621763:AAGx81FOL1oklcFdGVpBO1z4UdZe4_8fkNw", use_context=True)
 dispatcher = updater.dispatcher
 logging.basicConfig(format= ' %(asctime)s- %(name)s- %(levelname)s- %(message)s ',
                     level= logging.INFO)
